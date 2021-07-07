@@ -1,3 +1,5 @@
+//Accepted v1 o(nlogn) soln
+
 class Solution {
 public:
     int maxProductDifference(vector<int>& nums) {
